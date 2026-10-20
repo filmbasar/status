@@ -7,11 +7,9 @@ skipHomepageUpdate: true
 sites:
   - name: filmbasar.com
     url: https://filmbasar.com
-    icon: https://filmbasar.com/favicon.png
     type: globalping
   - name: app.filmbasar.com
     url: https://app.filmbasar.com
-    icon: https://app.filmbasar.com/favicon.png
     type: globalping
 
 status-website:
