@@ -17,4 +17,4 @@ status-website:
   baseUrl: /status
 
 i18n:
-  footer: This page is powered by [Upptime](https://upptime.js.org)
+  footer: [Upptime](https://upptime.js.org)
